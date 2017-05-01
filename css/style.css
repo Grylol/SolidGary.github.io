@@ -1,0 +1,9 @@
+body {
+  background-color: #000;
+  font-family: 'Noto Sans', sans-serif !important;
+	font-size: 16px;
+	color: #fff;
+}
+a:hover, a:visited, a:link, a:active {text-decoration: none;}
+a:visited, a:link, a:active {color: white;}
+a:hover {color: #607d8b;}
