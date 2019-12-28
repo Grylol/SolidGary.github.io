@@ -1,6 +1,11 @@
-# Gary.Science
+# Gary.page
 # solidgary.github.io
+<br>
+<b>Deciding to host my static site here.</b>
+<br>
+<b>Domains that point here:</b>
+Gary.page*
+Gary.science
+Gary.best
 
-I decided to buy a .science domain. I am hosting it here now. My old domains such as  http://Gary.ga, http://ゲイリー.ga, and http://🤤.ga will all redirect here. Probably.
-
-Lofi.me will be put into solidgary.github.io/lofime
+* = Current apex domain.
