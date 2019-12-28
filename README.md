@@ -1,5 +1,4 @@
-# Gary.page
-# solidgary.github.io
+# Gary.*
 <br>
 <b>Deciding to host my static site here.</b>
 <br>
