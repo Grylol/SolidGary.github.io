@@ -5,8 +5,8 @@
 <b>Domains that point here:</b>
 <br>
 <pre>
-Gary.page*
+Gry.lol*
+Gary.page
 Gary.science
-Gary.best
 </pre>
 * = Current apex domain.
