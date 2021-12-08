@@ -1,12 +1,13 @@
-# Gary.*
+# Gry
 <br>
-<b>Deciding to host my static site here.</b>
+<b>Hosting my static site here.</b>
 <br>
-<b>Domains that point here:</b>
+<b>Some domains that point here:</b>
 <br>
 <pre>
-Gry.lol*
+Grydot.com*
 Gary.page
+Gry.lol
 Gary.science
 </pre>
 * = Current apex domain.
