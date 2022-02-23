@@ -1,7 +1,8 @@
 html {
   margin:0;
   background:url('/img/bg.png');
-  font-family: 'Open Sans', sans-serif;
+  font-family: monospace;
+  /* font-family: 'Open Sans', sans-serif; */
 }
 #main {
   position:relative;
